@@ -1,4 +1,4 @@
-# placement-project-logistic-regression
+# Student_Placement_Logistic_Regression
 
 This is a ML-project wherein logistic-regression model is trained to predict if a student with given score of cgpa & iq will get a placement(job) or not.
 
